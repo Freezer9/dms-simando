@@ -196,6 +196,10 @@ coverage; most of the app is not.
 | Architecture and stack rationale | [docs/build/architecture.md](docs/build/architecture.md) |
 | Features not yet planned for v1 | [docs/future/README.md](docs/future/README.md) |
 
+## License
+
+Proprietary. All rights reserved. See [LICENSE](LICENSE).
+
 ## Configuration & secrets
 
 `appsettings.json` holds committed defaults. Real credentials go in
